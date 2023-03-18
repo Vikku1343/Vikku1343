@@ -6,7 +6,7 @@
 
 [<img src="https://github.com/Vikku1343/Vikku1343/blob/main/resources/hr.gif"/>](https://github.com/Vikku1343)
 
-<h1> <img src="https://github.com/Vikku1343/Vikku1343/blob/main/resources/Star.png" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
+<h1> <img src="https://github.com/Vikku1343/Vikku1343/blob/main/resources/Vikku.png" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
   
 ```python3
 class Starboi():
