@@ -14,6 +14,7 @@ class Starboi():
         self.name = ['ᴠɪᴋᴀꜱʜ ɢᴜᴘᴛᴀ']
         self.country = ['India']
         self.state = ['Delhi']
+        self.DOB = ['27 AUG']
         self.language = ['हिंदी', 'English']
         
     def programming_languages(self):
