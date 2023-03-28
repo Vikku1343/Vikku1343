@@ -9,7 +9,7 @@
 <h1> <img src="https://github.com/Vikku1343/Vikku1343/blob/main/resources/Vikku.png" width="55px"> ᴀʙᴏᴜᴛ ᴍᴇ </h1>
   
 ```python3
-class Starboi():
+class ᴠɪᴋᴋᴜ():
     def __init__(self):
         self.name = ['ᴠɪᴋᴀꜱʜ ɢᴜᴘᴛᴀ']
         self.country = ['India']
